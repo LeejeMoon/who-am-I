@@ -17,19 +17,34 @@
     top: 0%;
     }
     .dot {
-          object-position: 100%;
-          width:410px; height: 410px;
-          border: 1px solid #333;
-          padding: 8px 12px;
+          border: 5px solid black;
+          margin: 5rem;
+          
+          padding: 12px 12px;
+          width:100px; height: 100px;
+          line-height: 100px;
           background-color: whitesmoke;
           border-radius: 50%;    
           display: inline-block
-          font-size: 30px;
+          font-size: 10px;
           color: #000;
           text-align: center;
         }
+        
+    img{
+    border: 1px solid black;
+    margin: 5rem;
+    padding:
+    }
+
+    img{
+        position: relative;
+            width: 30rem;
+        left: 20%
+    }
+
     .box {
-      width: 585px; height: 800px;
+      width: 485px; height: 700px;
       border: 1px solid #333;
       box-shadow: 8px 8px 5px #444;
       padding: 8px 12px;
